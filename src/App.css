@@ -1,0 +1,40 @@
+.container {
+  padding-top: 3rem;
+}
+.Heading {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  font-weight: normal;
+  color: #6c757d;
+  line-height: 50px;
+}
+.Resume {
+  font-weight: bold;
+  color: black;
+  font-size: 35px;
+  margin: 0;
+}
+.subheading {
+  text-align: center;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 10px;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+.greyline {
+  border: 1px solid #aaa;
+}
+img {
+  border: 1px solid #6c757d;
+  padding: 0 20px;
+}
+.detailtext {
+  color: #6c757d;
+  font-weight: bold;
+}
+div.col-12 a {
+  color: inherit;
+  margin-bottom: 30px;
+}
